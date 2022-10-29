@@ -1,0 +1,16 @@
+h1{
+    color:pink
+}
+.heading{
+background-color: plum;
+display:flex;
+justify-content: space-evenly;
+}
+.description{
+background-color: gray;
+color:pink
+}
+.footer{
+background-color: plum;
+justify-content: flex-end;    
+}
